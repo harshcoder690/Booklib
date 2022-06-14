@@ -1,0 +1,97 @@
+.main_con {
+    font-family: 'Sofia Pro', sans-serif;
+}
+
+.con1 {
+    min-height: 100vh !important;
+    display: flex !important;
+    flex-direction: column !important;
+    font-family: 'Sofia Pro', sans-serif !important;
+    padding-bottom: 5% !important;
+}
+
+.con2 {
+    justify-content: center !important;
+    align-items: center !important;
+    flex-direction: column !important;
+    flex: 1 1 !important;
+    max-width: 24rem !important;
+    display: flex !important;
+    padding-left: 0.5rem!important;
+    margin-right: auto!important;
+    margin-left: auto!important;
+}
+
+.con3 {
+    max-width: 28rem !important;
+    /* width: 100% !important; */
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-top: 0.5rem!important;
+}
+
+.con4 {
+    border-radius: 0.5rem !important;
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow) !important;
+    --tw-shadow: 0 1px 3px 0 rgba(0, 0, 0, .1), 0 1px 2px -1px rgba(0, 0, 0, .1) !important;
+    --tw-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color), 0 1px 2px -1px var(--tw-shadow-color) !important;
+    padding-bottom: 2rem !important;
+    padding-top: 2rem !important;
+    --tw-bg-opacity: 1 !important;
+    --tw-border-opacity: 1 !important;
+    border-color: rgb(209 213 219/var(--tw-border-opacity)) !important;
+    padding-left: 1.5rem!important;
+    background-color: #fff!important;
+    padding-right: 1.5rem!important;
+}
+
+.head-text {
+    color: #4f4f4f;
+    line-height: 1.5rem !important;
+    font-weight: 800 !important;
+    font-size: 1.5rem !important;
+    margin-bottom: 3rem!important;
+    font-family: 'Sofia Pro', sans-serif !important;
+    margin-top: 3rem!important;
+}
+
+.field {
+    margin-top: 24px !important;
+}
+
+.subtext {
+    font-size: 1rem;
+}
+
+.btn {
+    --tw-shadow: 0 1px 2px 0 rgba(0, 0, 0, .05) !important;
+    --tw-shadow-colored: 0 1px 2px 0 var(--tw-shadow-color)!important;
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow) !important;
+    font-weight: 500 !important;
+    font-size: .875rem !important;
+    line-height: 1.25rem !important;
+    --tw-bg-opacity: 1 !important;
+    background-color: rgb(79 70 229/var(--tw-bg-opacity)) !important;
+    border-radius: 0.375rem !important;
+    justify-content: center !important;
+    display: flex !important;
+    width: 100% !important;
+    color: #fff!important;
+    padding-left: 1.5rem!important;
+    padding-right: 1.5rem!important;
+    padding-bottom: 0.5rem!important;
+    padding-top: 0.5rem!important;
+    border: 1px solid #dee2e6!important;
+    cursor: pointer !important;
+}
+
+.txt {
+    padding-top: .5rem !important;
+}
+
+.head {
+    font-family: 'Sofia Pro', sans-serif !important;
+    color: #4f4f4f;
+    font-weight: 800 !important;
+    font-size: 1rem !important;
+}
