@@ -12,7 +12,6 @@ function App() {
       <BrowserRouter>
         <Routing />
         <div className="w-100 h-100">
-          {/* <MainHeader /> */}
           <ToastContainer />
         </div>
       </BrowserRouter>

@@ -1,0 +1,17 @@
+.logoutbtn {
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 24px;
+    border-color: #4a4a4a;
+    border: 15px;
+    background-color: white;
+    color: #4a4a4a;
+    margin-left: 8px !important;
+    padding: 20px 0 20px 0;
+    text-align: center;
+    font-family: 'Sofia Pro', cursive;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: -.3px;
+}
